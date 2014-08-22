@@ -1,0 +1,37 @@
+{
+	"name" : "FreqSynth",
+	"version" : 1,
+	"creationdate" : -817983235,
+	"modificationdate" : -814874219,
+	"viewrect" : [ 1407.0, 44.0, 300.0, 500.0 ],
+	"autoorganize" : 1,
+	"hideprojectwindow" : 0,
+	"showdependencies" : 1,
+	"autolocalize" : 0,
+	"contents" : 	{
+		"patchers" : 		{
+			"FreqSynth.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"toplevel" : 1
+			}
+,
+			"Operator.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+
+		}
+
+	}
+,
+	"layout" : 	{
+
+	}
+,
+	"searchpath" : 	{
+
+	}
+,
+	"detailsvisible" : 1
+}
